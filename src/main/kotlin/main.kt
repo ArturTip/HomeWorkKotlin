@@ -7,5 +7,5 @@ fun main(){
   //showLikes()
 
   //Задание № 3
-
+  //showDiscount()
 }
